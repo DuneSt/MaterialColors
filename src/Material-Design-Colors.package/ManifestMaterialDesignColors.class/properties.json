@@ -1,0 +1,14 @@
+{
+	"category" : "Material-Design-Colors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestMaterialDesignColors",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }
