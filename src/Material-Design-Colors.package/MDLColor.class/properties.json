@@ -1,15 +1,16 @@
 {
+	"commentStamp" : "<historical>",
+	"super" : "Color",
 	"category" : "Material-Design-Colors",
 	"classinstvars" : [
-		"colors" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "<historical>",
+		"colors"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"tint",
-		"code" ],
+		"code"
+	],
 	"name" : "MDLColor",
-	"pools" : [
-		 ],
-	"super" : "Color",
-	"type" : "normal" }
+	"type" : "normal"
+}
