@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 2/6/2017 10:08",
-	"super" : "BaselineOf",
 	"category" : "BaselineOfMaterialColors",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 2/6/2017 10:08",
+	"instvars" : [
+		 ],
 	"name" : "BaselineOfMaterialColors",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

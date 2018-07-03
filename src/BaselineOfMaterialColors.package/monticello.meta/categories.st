@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfMaterialColors!
+SystemOrganization addCategory: #'BaselineOfMaterialColors'!
