@@ -1,3 +1,3 @@
-defaults
+defaults - colors
 pink
 	^ self tint: #pink
