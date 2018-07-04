@@ -1,3 +1,3 @@
-defaults
+defaults - colors
 brown
 	^ self tint: #brown

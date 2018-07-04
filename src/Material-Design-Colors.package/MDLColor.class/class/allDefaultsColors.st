@@ -1,3 +1,3 @@
 accessing
 allDefaultsColors
-	^ (self class methodsInProtocol: #defaults) collect: [ :m | MDLColor perform: m selector ]
+	^ self class allMethods select: [ :each | each protocol = #'defaults - colors' ] thenCollect: [ :m | MDLColor perform: m selector ]
