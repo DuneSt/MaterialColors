@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "CyrilFerlicot 7/4/2018 17:57",
+	"super" : "Color",
+	"category" : "Material-Design-Colors-Platform",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Current"
+	],
+	"instvars" : [ ],
+	"name" : "MaterialColorPlatform",
+	"type" : "normal"
+}
