@@ -6,7 +6,16 @@ Master: [![Build Status](https://travis-ci.org/DuneSt/MaterialColors.svg?branch=
 #### Windows builds
 Master: [![Build status](https://ci.appveyor.com/api/projects/status/3dn6m0k68jjenk6v/branch/master?svg=true)](https://ci.appveyor.com/project/jecisc/materialcolors/branch/master) | Latest commit: [![Build status](https://ci.appveyor.com/api/projects/status/3dn6m0k68jjenk6v?svg=true)](https://ci.appveyor.com/project/jecisc/materialcolors) 
 
-A project to extends Pharo colors's classes with the Material Design recommandations
+A project to extends Pharo colors's classes with the [Material Design](https://en.wikipedia.org/wiki/Material_Design) recommandations.
+
+- [Documentation](#documentation)
+  * [Version management](#version-management)
+  * [Install MaterialColors](#install-materialcolors)
+  * [Resources](#resources)
+  * [Smalltalk versions compatibility](#smalltalk-versions-compatibility)
+  * [Contact](#contact)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Documentation
@@ -45,6 +54,21 @@ To add MaterialColors to your baseline just add this:
     	
 Note that you can replace the #master by another branch as #development or a tag as #v1.0.0 or #v1.0.? or #v1.x.x .
 
+## Resources
+
+This project aim to help the developers to follow Material Design recommandations about colors. 
+
+To learn those recommandation please refer to [https://material.io/design/color/](https://material.io/design/color/)
+
+## Smalltalk versions compatibility
+
+| MDL version 	| Compatible Pharo versions 	| Compatible Gemstone versions 	|
+|-------------	|---------------------------	|---------------------------	|
+| 1.0.x       	| Pharo 50, 60, 61          	| None                      	|
+| 1.1.x       	| Pharo 50, 60, 61          	| None                       	|
+| 1.2.x       	| Pharo 50, 60, 61          	| Gemstone 3.4.x (*)        	|
+
+(*) This version of Gemstone is tested. Older versions might work but we did not tested it.
 
 ## Contact
 
