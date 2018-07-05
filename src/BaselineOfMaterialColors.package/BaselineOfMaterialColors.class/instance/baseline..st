@@ -4,11 +4,9 @@ baseline: spec
 	spec
 		for: #common
 		do: [
-			spec postLoadDoIt: #logs.
 			"Packages"
 			spec
-				package: 'Material-Design-Colors-Platform';
-				package: 'Material-Design-Colors' with: [ spec requires: 'Material-Design-Colors-Platform' ];
+				package: 'Material-Design-Colors';
 				package: 'Material-Design-Tests-Colors' with: [ spec requires: 'Material-Design-Colors' ].
 
 			"Groups"
