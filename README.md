@@ -15,9 +15,6 @@ A project to extends Pharo colors's classes with the [Material Design](https://e
   * [Smalltalk versions compatibility](#smalltalk-versions-compatibility)
   * [Contact](#contact)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 # Documentation
 
 ## Version management 
@@ -40,7 +37,6 @@ To install MaterialColors on your Pharo image you can just execute the following
     Metacello new
     	githubUser: 'DuneSt' project: 'MaterialColors' commitish: 'master' path: 'src';
     	baseline: 'MaterialColors';
-    	onWarningLog;
     	load
 ```
 
@@ -56,7 +52,7 @@ Note that you can replace the #master by another branch as #development or a tag
 
 ## Resources
 
-This project aim to help the developers to follow Material Design recommandations about colors. 
+This project aim to help developers to follow Material Design recommandations about colors. 
 
 To learn those recommandation please refer to [https://material.io/design/color/](https://material.io/design/color/)
 
