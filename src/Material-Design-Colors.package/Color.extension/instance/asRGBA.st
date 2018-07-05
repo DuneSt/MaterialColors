@@ -8,11 +8,11 @@ asRGBA
 				ifTrue: [ alph := alph allButLast: 2 ].
 			s
 				nextPutAll: 'rgba(';
-				<< (self red * 255) ceiling;
+				print: (self red * 255) ceiling;
 				nextPut: $,;
-				<< (self green * 255) ceiling;
+				print: (self green * 255) ceiling;
 				nextPut: $,;
-				<< (self blue * 255) ceiling;
+				print: (self blue * 255) ceiling;
 				nextPut: $,;
-				<< alph;
+				nextPutAll: alph;
 				nextPut: $) ]
