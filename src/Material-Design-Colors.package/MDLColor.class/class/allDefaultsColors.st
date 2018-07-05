@@ -1,3 +1,3 @@
 accessing
 allDefaultsColors
-	^ (self class methodsInProtocol: #defaults) collect: [ :m | MDLColor perform: m selector ]
+	^ (MaterialColorPlatform current allSelectorsOf: self class from: #'defaults - colors') collect: [ :selector | MDLColor perform: selector ]
