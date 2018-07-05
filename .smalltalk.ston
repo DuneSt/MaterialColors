@@ -2,8 +2,7 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'MaterialColors',
-      #directory : 'src',
-      #platforms : [ #pharo ]
+      #directory : 'src'
     }
   ]
 }
