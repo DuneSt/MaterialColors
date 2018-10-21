@@ -1,3 +1,9 @@
+# [v2.0.0](https://github.com/DuneSt/MaterialColors/compare/v1.2.0...v2.0.0) (2018-10-21)
+
+## Infrastructure
+
+* **Use Tonel format instead of FileTree**([f9e5fa1](https://github.com/DuneSt/MaterialColors/commit/f9e5fa1c975ca9a40e18bde4a132c455bd3b373f))
+
 # [v1.2.0](https://github.com/DuneSt/MaterialColors/compare/v1.1.0...v1.2.0) (2018-07-05)
 
 ## Features
