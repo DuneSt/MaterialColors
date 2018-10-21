@@ -48,7 +48,7 @@ To add MaterialColors to your baseline just add this:
     	with: [ spec repository: 'github://DuneSt/MaterialColors:master/src' ]
 ```
     	
-Note that you can replace the #master by another branch as #development or a tag as #v1.0.0 or #v1.0.? or #v1.x.x .
+Note that you can replace the #master by another branch as #development or a tag as #v2.0.0 or #v2.0.? or #v2.x.x .
 
 ## Resources
 
@@ -63,6 +63,7 @@ To learn those recommandation please refer to [https://material.io/design/color/
 | 1.0.x       	| Pharo 50, 60, 61          	| None                      	|
 | 1.1.x       	| Pharo 50, 60, 61          	| None                       	|
 | 1.2.x       	| Pharo 50, 60, 61          	| Gemstone 3.4.x (*)        	|
+| 2.x.x       	| Pharo 61, 70		          	| None				        	|
 
 (*) This version of Gemstone is tested. Older versions might work but we did not tested it.
 
