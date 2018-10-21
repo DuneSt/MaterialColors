@@ -1,0 +1,1 @@
+Package { #name : #'Material-Design-Colors-Platform-Gemstone' }
