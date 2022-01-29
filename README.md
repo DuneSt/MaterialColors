@@ -1,11 +1,5 @@
 # MaterialColors
 
-#### Linux/OSX builds
-Master: [![Build Status](https://travis-ci.org/DuneSt/MaterialColors.svg?branch=master)](https://travis-ci.org/DuneSt/MaterialColors)
-
-#### Windows builds
-Master: [![Build status](https://ci.appveyor.com/api/projects/status/3dn6m0k68jjenk6v/branch/master?svg=true)](https://ci.appveyor.com/project/jecisc/materialcolors/branch/master) | Latest commit: [![Build status](https://ci.appveyor.com/api/projects/status/3dn6m0k68jjenk6v?svg=true)](https://ci.appveyor.com/project/jecisc/materialcolors) 
-
 A project to extends Pharo colors's classes with the [Material Design](https://en.wikipedia.org/wiki/Material_Design) recommandations.
 
 - [Documentation](#documentation)
@@ -63,7 +57,7 @@ To learn those recommandation please refer to [https://material.io/design/color/
 | 1.0.x       	| Pharo 50, 60, 61          	| None                      	|
 | 1.1.x       	| Pharo 50, 60, 61          	| None                       	|
 | 1.2.x       	| Pharo 50, 60, 61          	| Gemstone 3.4.x (*)        	|
-| 2.x.x       	| Pharo 61, 70		          	| None				        	|
+| 2.x.x       	| Pharo 61, 70, 80, 90        	| None				        	|
 
 (*) This version of Gemstone is tested. Older versions might work but we did not tested it.
 

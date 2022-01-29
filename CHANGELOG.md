@@ -1,3 +1,9 @@
+# [v2.0.1](https://github.com/DuneSt/MaterialColors/compare/v2.0.0...v2.0.1) (2022-01-29)
+
+## Infrastructure
+
+* Use Github actions for CI and enable CI for Pharo 8 and 9 ([85b95ec](https://github.com/DuneSt/MaterialColors/commit/85b95ec29f301bbd482ec999b1b242ebc5256d00))
+
 # [v2.0.0](https://github.com/DuneSt/MaterialColors/compare/v1.2.0...v2.0.0) (2018-10-21)
 
 ## Infrastructure
