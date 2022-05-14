@@ -57,7 +57,7 @@ To learn those recommandation please refer to [https://material.io/design/color/
 | 1.0.x       	| Pharo 50, 60, 61          	| None                      	|
 | 1.1.x       	| Pharo 50, 60, 61          	| None                       	|
 | 1.2.x       	| Pharo 50, 60, 61          	| Gemstone 3.4.x (*)        	|
-| 2.x.x       	| Pharo 61, 70, 80, 90        	| None				        	|
+| 2.x.x       	| Pharo 61, 70, 80, 90, 10        	| None				        	|
 
 (*) This version of Gemstone is tested. Older versions might work but we did not tested it.
 
